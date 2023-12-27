@@ -19,7 +19,7 @@ Guide on how to setup new SD card for the Console X6 Handheld.
 ## PT-BR
 1. Formate seu cartão SD de destino como *Fat32* ou *exFat*
 2. Conecte o seu cartão SD no dispositivo X6, ligue-o e aguarde a mensagem **"Card In"**
-3. Abra até o menu **Games** e aguarde o carregamento. *Seu dispositivo pode travar por alguns segundos neste ponto, mas isso é esperado. Apenas aguarde até que o menu de jogos seja aberto.*
+3. Abra o menu **Games** e aguarde o carregamento. *Seu dispositivo pode travar por alguns segundos neste ponto, mas isso é esperado. Apenas aguarde até que o menu de jogos seja aberto.*
 4. Você deverá ver uma mensagem informando que o dispositivo está vazio ou algo assim. Depois disso, volte ao menu principal e desligue o dispositivo.
 5. Remova o cartão SD do dispositivo e insira-o no seu computador.
 6. Seu dispositivo já deve ter algumas pastas criadas automaticamente pelo X6.
